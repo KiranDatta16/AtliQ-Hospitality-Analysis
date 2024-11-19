@@ -25,10 +25,10 @@ Key Metrics:
 
 Dashboards:
 -------------------------
-1. Sales View:
+1.Sales View:
 -----------------------------
 The Dashboard provides a comprehensive view of several key performance metrics like Revenue Trends, Booking platforms, Occupancy % across different cities,Average ratings and operational metrics
- 
+
 2.Key Metrics Overview:
 ------------------------------------------
 This dashboard is presenting key performance metrics and trends.This comprehensive view allows stakeholders to quickly assess the business's health and make informed decisions based on the data presented.
