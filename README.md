@@ -24,7 +24,7 @@ Key Metrics:
 Dashboards:
 -------------------------
 1. Sales View:
-------------------------------
+---------------------------------------------------
 The Dashboard provides a comprehensive view of several key performance metrics like Revenue Trends, Booking platforms, Occupancy % across different cities,Average ratings and operational metrics
  
 2.Key Metrics Overview:
@@ -41,9 +41,9 @@ The dashboard is inferring patterns and trends in cancellations, highlighting wh
 
 INSIGHTS:
 -----------------------
-1.Direct offline platforms have the fewest cancellations at 1,660. This suggests transparency on online platforms might need review to improve guest confidence and reduce cancellations.
-2.Mumbai city leads in cancellations with 10,750. AtliQ Grands management should re-strategize their approach specifically for this market.
-3.The insignificant difference in RevPAR between weekdays and weekends, despite the significant gap in occupancy rates, suggests an absence of a dynamic pricing strategy that could capitalize on the varying demand.
+1. Direct offline platforms have the fewest cancellations at 1,660. This suggests transparency on online platforms might need review to improve guest confidence and reduce cancellations.
+2. Mumbai city leads in cancellations with 10,750. AtliQ Grands management should re-strategize their approach specifically for this market.
+3. The insignificant difference in RevPAR between weekdays and weekends, despite the significant gap in occupancy rates, suggests an absence of a dynamic pricing strategy that could capitalize on the varying demand.
 
 
 
