@@ -1,6 +1,6 @@
 AtliQ-Hospitality-Analysis:
 ----------------------------------------------------------------------------------------------------------
-Live Dashbord Link : https://www.novypro.com/create_project/atliq-hospitality-analysis-44
+Live Dashbord Link : https://project.novypro.com/q15cx5
 
 Problem Statement:
 --------------------------------------------------------------------
