@@ -43,9 +43,11 @@ The dashboard is inferring patterns and trends in cancellations, highlighting wh
 
 INSIGHTS:
 -----------------------
-1. Direct offline platforms have the fewest cancellations at 1,660. This suggests transparency on online platforms might need review to improve guest confidence and reduce cancellations.
-2. Mumbai city leads in cancellations with 10,750. AtliQ Grands management should re-strategize their approach specifically for this market.
-3. The insignificant difference in RevPAR between weekdays and weekends, despite the significant gap in occupancy rates, suggests an absence of a dynamic pricing strategy that could capitalize on the varying demand.
+1. Direct offline platform have the fewest cancellations at 1,660 and the variation in cancellation rates between highly rated and low-rated properties is minimal(+/- 2%). 
+So, AtliQ Grands should engage with transparent and reliable platforms that prioritize customer satisfaction.
+3. Mumbai city leads in cancellations with 10,750. AtliQ Grands management should re-strategize their approach specifically for this market.
+4. The disparity in RevPAR between weekdays and weekends is primarily driven by significant differences in occupancy rates. This suggests a lack of a dynamic pricing strategy to optimize revenue in response to varying demand.
+------------------------------------------
 
 
 
