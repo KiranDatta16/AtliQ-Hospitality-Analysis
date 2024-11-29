@@ -1,4 +1,4 @@
-AtliQ-Hospitality-Analysis:
+AtliQ_Grands_Hospitality_Analysis:
 ----------------------------------------------------------------------------------------------------------
 Live Dashbord Link : https://project.novypro.com/q15cx5
 
