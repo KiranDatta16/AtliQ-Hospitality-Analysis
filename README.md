@@ -49,7 +49,7 @@ INSIGHTS:
 
 Weekends generate less revenue than weekdays, even though they have a higher occupancy rate. Weekends, with a 62.64 % occupancy rate, generate ₹524 million, while weekdays, with a 55.9% occupancy rate, generate ₹1.18 billion in revenue. This discrepancy suggests a lack of a dynamic pricing strategy that could adjust to changing demand.
 
-    The revenue and occupancy rates for May, June, and July are nearly identical, even though April to June is typically considered the holiday season. This indicates a lack of seasonal      variation. AtliQ Grands is unable to capitalize on this increased demand.
+The revenue and occupancy rates for May, June, and July are nearly identical, even though April to June is typically considered the holiday season. This indicates a lack of seasonal      variation. AtliQ Grands is unable to capitalize on this increased demand.
 
 2. BELOW-MARKET PERFORMANCE:
 
