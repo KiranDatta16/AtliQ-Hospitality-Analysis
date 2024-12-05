@@ -1,7 +1,8 @@
 AtliQ_Grands_Hospitality_Analysis:
 ----------------------------------------------------------------------------------------------------------
 Live Dashbord Link : https://project.novypro.com/q15cx5|
-Presentation Link(ppt) :https://1drv.ms/p/c/f9ff054a9b38c3de/Efub3ovfUYxCnVK3Mq4nvs8BikrmwnVI_rSORqolFQSW5g?e=JMDRXF
+
+Presentation Link(ppt): https://1drv.ms/p/c/f9ff054a9b38c3de/Efub3ovfUYxCnVK3Mq4nvs8BikrmwnVI_rSORqolFQSW5g?e=JMDRXF
 
 Problem Statement:
 --------------------------------------------------------------------
