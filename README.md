@@ -72,7 +72,7 @@ India's occupancy rates, reflecting strong demand, are estimated to be at 70%, p
   
   This shows a gap between AtliQ Grand’s service and consumer expectations.
   
-   Atliq Palace has the highest cancellations amongst the properties (5949), while Atliq Seasons has the least at 987. AtliQ Grands needs an intrspection of buiness model/ service model 
+  Atliq Palace has the highest cancellations amongst the properties (5949), while Atliq Seasons has the least at 987. AtliQ Grands needs an intrspection of buiness model/ service model 
    at Atliq Palace.
 ------------------------------------------
 
