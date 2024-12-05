@@ -46,11 +46,13 @@ The dashboard is inferring patterns and trends in cancellations, highlighting wh
 INSIGHTS:
 -----------------------
 1. NO DYNAMIC PRICING STRATEGY:
+
 Weekends generate less revenue than weekdays, even though they have a higher occupancy rate. Weekends, with a 62.64 % occupancy rate, generate ₹524 million, while weekdays, with a 55.9% occupancy rate, generate ₹1.18 billion in revenue. This discrepancy suggests a lack of a dynamic pricing strategy that could adjust to changing demand.
 
     The revenue and occupancy rates for May, June, and July are nearly identical, even though April to June is typically considered the holiday season. This indicates a lack of seasonal      variation. AtliQ Grands is unable to capitalize on this increased demand.
 
 2. BELOW-MARKET PERFORMANCE:
+
 India's occupancy rates, reflecting strong demand, are estimated to be at 70%, particularly for the premium and luxury segments. AtliQ Grands, with occupancy rates ranging from 58% to 60%, is lagging industry standards.
 
    The industry benchmark Average Daily Rate (ADR) for luxury-class hotels in Tier-1 Indian cities is ₹15,000. Atliq Grands, with ADR for its Elite class (11,320) is below ₹15,000.
