@@ -60,13 +60,19 @@ India's occupancy rates, reflecting strong demand, are estimated to be at 70%, p
 
 3. CANCELLATIONS:
 
-Direct offline channel exhibit the lowest cancellation percentage among all booking platforms. AtliQ Grand should prioritize transparently listing its amenities and policies or       
-consider partnering with a more suitable booking platform.
-Elite Category tops the cancellations amongst the room classes (12,357).
-Mumbai, despite being the highest revenue-generating city at 668 million INR, also exhibits the highest cancellation rates (10,754). Atliq Grands should reassess its business   x 
-approach in Mumbai to mitigate this issue.
-This shows a gap between AtliQ Grand’s service and consumer expectations.
-Atliq Palace has the highest cancellations amongst the properties (5949), while Atliq Seasons has the least at 987.
+  Direct offline channel exhibit the lowest cancellation percentage among all booking platforms. AtliQ Grand should prioritize transparently listing its amenities and policies or 
+  consider partnering with a more suitable booking platform.
+  
+  Elite Category tops the cancellations amongst the room classes (12,357).
+  
+  Mumbai, despite being the highest revenue-generating city at 668 million INR, also exhibits the highest cancellation rates (10,754). Atliq Grands should reassess its business approach 
+  in Mumbai to mitigate this issue.
+  
+  This shows a gap between AtliQ Grand’s service and consumer expectations.
+  
+  Atliq Palace has the highest cancellations amongst the properties (5949), while Atliq Seasons has the least at 987.
+
+
 ------------------------------------------
 
 
