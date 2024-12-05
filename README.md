@@ -48,21 +48,23 @@ INSIGHTS:
 1. NO DYNAMIC PRICING STRATEGY:
 Weekends generate less revenue than weekdays, even though they have a higher occupancy rate. Weekends, with a 62.64 % occupancy rate, generate ₹524 million, while weekdays, with a 55.9% occupancy rate, generate ₹1.18 billion in revenue. This discrepancy suggests a lack of a dynamic pricing strategy that could adjust to changing demand.
 
-  The revenue and occupancy rates for May, June, and July are nearly identical, even though April to June is typically considered the holiday season. This indicates a lack of seasonal      variation. AtliQ Grands is unable to capitalize on this increased demand.
+    The revenue and occupancy rates for May, June, and July are nearly identical, even though April to June is typically considered the holiday season. This indicates a lack of seasonal      variation. AtliQ Grands is unable to capitalize on this increased demand.
 
 2. BELOW-MARKET PERFORMANCE:
 India's occupancy rates, reflecting strong demand, are estimated to be at 70%, particularly for the premium and luxury segments. AtliQ Grands, with occupancy rates ranging from 58% to 60%, is lagging industry standards.
 
    The industry benchmark Average Daily Rate (ADR) for luxury-class hotels in Tier-1 Indian cities is ₹15,000. Atliq Grands, with ADR for its Elite class (11,320) is below ₹15,000.
-  All the cities in which AtliQ Grands operates has ADR value below the market benchmark.
+   All the cities in which AtliQ Grands operates has ADR value below the market benchmark.
 
 3. CANCELLATIONS:
-  Direct offline channel exhibit the lowest cancellation percentage among all booking platforms. AtliQ Grand should prioritize transparently listing its amenities and policies or       
-  consider partnering with a more suitable booking platform.
-  Elite Category tops the cancellations amongst the room classes (12,357).
-  Mumbai, despite being the highest revenue-generating city at 668 million INR, also exhibits the highest cancellation rates (10,754). Atliq Grands should reassess its business approach    in Mumbai to mitigate this issue.
-  This shows a gap between AtliQ Grand’s service and consumer expectations.
-  Atliq Palace has the highest cancellations amongst the properties (5949), while Atliq Seasons has the least at 987.
+
+    Direct offline channel exhibit the lowest cancellation percentage among all booking platforms. AtliQ Grand should prioritize transparently listing its amenities and policies or       
+    consider partnering with a more suitable booking platform.
+    Elite Category tops the cancellations amongst the room classes (12,357).
+    Mumbai, despite being the highest revenue-generating city at 668 million INR, also exhibits the highest cancellation rates (10,754). Atliq Grands should reassess its business   x 
+    approach in Mumbai to mitigate this issue.
+    This shows a gap between AtliQ Grand’s service and consumer expectations.
+    Atliq Palace has the highest cancellations amongst the properties (5949), while Atliq Seasons has the least at 987.
 ------------------------------------------
 
 
